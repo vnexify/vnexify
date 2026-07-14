@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner%20for%20github.png" width="100%" alt="VNEXIFY Banner">
+</p>
+
+<br>
 # 👋 Welcome to VNEXIFY
 
 ## AI Automation • Python • Excel • Business Solutions
