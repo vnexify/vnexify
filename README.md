@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Welcome to VNEXIFY
 
-<!--
-**vnexify/vnexify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+VNEXIFY is an AI Automation brand focused on building practical solutions using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Artificial Intelligence
+- 🐍 Python Automation
+- 📊 Excel Automation
+- 🌐 Web Development
+- 📈 Productivity Systems
+
+## Mission
+
+Build smart tools that save time, automate work and help people grow.
+
+---
+
+🚀 Project started in 2026.
