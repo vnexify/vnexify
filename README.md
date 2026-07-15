@@ -69,8 +69,6 @@ Our goal is to make AI automation simple, affordable, and accessible for everyon
 
 # 🌐 Connect With Us
 
-## 🌐 Connect With Us
-
 <p align="center">
 
 <a href="https://www.linkedin.com/company/vnexify">
