@@ -41,16 +41,13 @@ Our goal is to make AI automation simple, affordable, and accessible for everyon
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-- Python
-- Excel
-- Git
-- GitHub
-- VS Code
-- AI Automation
-- Workflow Design
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,github,git,vscode" />
+
+</p>
 ---
 
 # 📂 Featured Projects
