@@ -1,6 +1,14 @@
 <p align="center">
   <img src="banner%20for%20github.png" width="100%" alt="VNEXIFY Banner">
 </p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-Automation-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Business-Solutions-6A5ACD?style=for-the-badge" />
+
+</p>
 
 # 👋 Welcome to VNEXIFY
 
