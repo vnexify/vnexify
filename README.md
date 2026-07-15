@@ -48,7 +48,6 @@ Our goal is to make AI automation simple, affordable, and accessible for everyon
 <img src="https://skillicons.dev/icons?i=python,github,git,vscode" />
 
 </p>
----
 
 # 📂 Featured Projects
 
